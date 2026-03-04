@@ -1,7 +1,8 @@
-import pylib
-n=10;
-n1=12;
+n=10
+n1=12
 
-sum = n+n1;
+sum_result = n+n1
 
-print sum;
+print ("sum= sum_result")
+
+
